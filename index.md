@@ -1,9 +1,7 @@
 
 <!--
----
-layout: default
----
  <a href="https//www.linkedin.com/in/kevin-brodersen-41071218">[My LinkedIn Profile]</a> 
+ 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 Internal github link: 
