@@ -1,6 +1,6 @@
 
 <!--
- <a href="https//www.linkedin.com/in/kevin-brodersen-41071218">[My LinkedIn Profile]</a> 
+ [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kevin-brodersen-41071218)
  
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
