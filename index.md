@@ -1,9 +1,9 @@
-# My Document
+# About Me:
 This is a simple *Markdown* file.
 
-## Section 1
-- Item 1
+## Coding projects:
+- [scrambler](https://github.com/kbrode01/scrambler)
 - Item 2
 
-**Bold text** and [a link](https://example.com).
+
 
