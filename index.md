@@ -3,7 +3,7 @@ Computer Science student at Florida State University. I have completed these pro
 
 ## Coding projects:
 - [scrambler C++](https://github.com/kbrode01/scrambler)
-- Item 2
+- [MAC_Changer C](https://github.com/kbrode01/MAC_changer)
 
 
 
