@@ -3,6 +3,7 @@ Computer Science student at Florida State University. I have completed these pro
 
 ## Coding projects:
 - [scrambler C++](https://github.com/kbrode01/scrambler)
+- [network mapper in C](https://github.com/kbrode01/networkMapper)
 - [MAC_Changer C](https://github.com/kbrode01/MAC_changer)
 - [amoritization C](https://github.com/kbrode01/amoritization)
 - [perfect numbers in MIPS assembly](https://github.com/kbrode01/perfectNumbers)
