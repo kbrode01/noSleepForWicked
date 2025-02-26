@@ -5,6 +5,7 @@ Computer Science student at Florida State University. I have completed these pro
 - [scrambler C++](https://github.com/kbrode01/scrambler)
 - [MAC_Changer C](https://github.com/kbrode01/MAC_changer)
 - [amoritization C](https://github.com/kbrode01/amoritization)
+- [perfect numbers in MIPS assembly](https://github.com/kbrode01/perfectNumbers)
 
 
 
