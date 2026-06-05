@@ -8,6 +8,7 @@ Computer Science student at Florida State University and Mayo Clinic Jacksonvill
 - [amoritization C](https://github.com/kbrode01/amoritization)
 - [perfect numbers in MIPS assembly](https://github.com/kbrode01/perfectNumbers)
 - [patient data generator script in Python](https://github.com/kbrode01/PythonPatientDataSet)
+- [perioperative assistant / EMR Azure simulator in C#](https://github.com/kbrode01/PerioperativeAssistant)
 
 
 
