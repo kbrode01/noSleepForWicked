@@ -4,7 +4,7 @@ Computer Science student at Florida State University and Mayo Clinic Jacksonvill
 ## Coding projects:
 - [scrambler C++](https://github.com/kbrode01/scrambler)
 - [network mapper in C](https://github.com/kbrode01/networkMapper)
-- [MAC_Changer C](https://github.com/kbrode01/MAC_changer)
+- [MAC_Changer C#](https://github.com/kbrode01/MAC_changer)
 - [amoritization C](https://github.com/kbrode01/amoritization)
 - [perfect numbers in MIPS assembly](https://github.com/kbrode01/perfectNumbers)
 - [patient data generator script in Python](https://github.com/kbrode01/PythonPatientDataSet)
